@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: libs/mysql-connector-j-8.0.33.jar libs/protobuf-java-3.21.9.
+ jar libs/flatlaf-3.2.5.jar libs/flatlaf-extras-3.2.5.jar libs/jsvg-1.2.
+ 0.jar libs/jcalendar-1.4.jar
+Main-Class: views.LoginJFrame
+Created-By: Maven Integration for Eclipse
+
